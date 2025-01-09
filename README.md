@@ -1,3 +1,3 @@
 # LIA-Consid
-QR code master github
+QR code master github (and)
 HatemTheKungBarbarianAndLIA
